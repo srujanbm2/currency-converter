@@ -1,0 +1,5 @@
+- [x] Add axios to package.json dependencies
+- [x] Update server.js to add /convert endpoint with exchange rate fetching and conversion logic
+- [x] Update public/index.html to include currency converter form and JavaScript for handling conversion
+- [x] Install new dependencies with npm install
+- [x] Restart the server and test the conversion functionality
